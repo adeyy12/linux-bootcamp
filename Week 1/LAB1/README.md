@@ -19,9 +19,6 @@ Quickstart for Bash in Azure Cloud Shell
 
 # In this lab i was introduced to basic azure commands and keywords resource group creation as well as Virtual machine creation.
 # I learnt about admin previledges and the use of sudo. 
-#
-# 1 LAUNCH AZURE CLOUD SHELL
+# I learnt about ports and web traffic
+# for my own, i used NGINX
 
-# 2 CREATE A RESOURSE GROUP
-
-# 3 CREATE VIRTUAL MACHINE
