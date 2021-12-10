@@ -21,4 +21,6 @@ Quickstart for Bash in Azure Cloud Shell
 # I learnt about admin previledges and the use of sudo. 
 # I learnt about ports and web traffic
 # for my own, i used NGINX
+# http://52.170.147.183/ a link to running server. I have also attached in screenshot
+
 
